@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:29B06A9E-79CB-442D-8E75-E550BAA30F1E</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-11-20T18:43:23+08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:E3BB1834-76A9-4482-B11D-B52AEA52E9D6</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">E3BB1834-76A9-4482-B11D-B52AEA52E9D6</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2012-11-20T18:43:23.001+08:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7A642C31-F93D-4706-8586-9A45D9668141</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">7A642C31-F93D-4706-8586-9A45D9668141</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2012-11-20T18:43:23.002+08:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B73D8116-8EE8-4D5C-97F5-697AE328F1FB</id>
+  <title>My Albums</title>
+  <title xmlns="urn:iweb:">My Albums</title>
+  <in-navbar xmlns="urn:iweb:">B73D8116-8EE8-4D5C-97F5-697AE328F1FB</in-navbar>
+  <link rel="alternate" href="My_Albums/My_Albums.html"/>
+  <updated>2012-11-20T18:43:23.003+08:00</updated>
+  <content>My Albums</content>
+ </entry>
+</feed>
